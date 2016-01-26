@@ -9,7 +9,7 @@ title:              Amit Thakur
 tagline:            'A Software Engineer and explorer'
 description:        'Random musings on STEM (Science, Technology, Engineering, and Mathematics), art, and personal adventures'
 url:                 http://amitthakur.org
-baseurl:             'http://amitthakur.org'
+baseurl:             ''
 paginate:            5
 
 # About/contact
