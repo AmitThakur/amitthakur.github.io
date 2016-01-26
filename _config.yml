@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:              Amit Thakur 
-tagline:            'A Software Engineer and explorer'
+tagline:            'a software engineer and explorer'
 description:        'Random musings on STEM (Science, Technology, Engineering, and Mathematics), art, and personal adventures'
 url:                 http://amitthakur.org
 baseurl:            ''
