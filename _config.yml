@@ -6,8 +6,8 @@ relative_permalinks: true
 
 # Setup
 title:              Amit Thakur 
-tagline:            'This is a tagline'
-description:        'Site description'
+tagline:            'A Software Engineer and explorer'
+description:        'Random musings on STEM (Science, Technology, Engineering, and Mathematics), art, and personal adventures'
 url:                 http://amitthakur.org
 baseurl:             ''
 paginate:            5
