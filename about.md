@@ -5,7 +5,7 @@ title: About
 
 I'm Amit Thakur.
 
-I'm a software engineer working for Infosys at Bengaluru, the silicon valley of India.
+I'm a software engineer working for Infosys at Bengaluru - the silicon valley of India.
 
 I spent my childhood at Jaipur, India. I completed my school and bachelor education in the same city.
 
@@ -19,7 +19,7 @@ I wrote my first program in C++ on Windows 7 OS. I fell in love with it.
 I tried a lot of things with computers, like, developing websites, desktop application applications 
 for my college projects, and learning scientific computing using Matlab. 
 
-I have affinity for matematics, physics, and computers. I see beauty in some patterns in objects, 
+I have affinity for mathematics, physics, and computer science. I see beauty in some patterns in objects, 
 and feel aesthetic pleasure while programming and studying mathematics.
 
 I love cooking and travelling.
