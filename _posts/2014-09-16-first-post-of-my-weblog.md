@@ -5,7 +5,7 @@ title: First Post Of My Weblog
 
 ![Sunrise](https://c1.staticflickr.com/5/4128/5025957963_49a8228423.jpg)
 
-	> We are what we repeatedly do. Excellence, therefore, is not an act but a habit. -Aristotle
+> We are what we repeatedly do. Excellence, therefore, is not an act but a habit. -Aristotle
 
 With this motivational quote, I start my own weblog. This blog is an aggregation of my thoughts and ideas coming to my mind. I always wanted a platform to have an open conversation with people around the world. 
 
