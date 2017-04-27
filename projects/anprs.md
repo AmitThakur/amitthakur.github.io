@@ -3,7 +3,7 @@ layout: page
 title: Automatic Number Plate Recognition System
 ---
 
-**DST Proposal File** : [Download]({{site.baseurl}}/public/docs/projects/anprs/ANPR_DST_Proposal_Amit_Thakur.pdf)
+**ANPRS Overview** : [Download]({{site.baseurl}}/public/docs/projects/anprs/ANPRS_Overview.pdf)
 
 **ANPRS GUI** : 
 
