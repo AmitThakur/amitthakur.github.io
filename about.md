@@ -17,14 +17,14 @@ I loved making electronic projects. I got motivation for that from my elder cous
 My mother bought me my first computer at the age of 20, during 1st year of my engineering college.
 I wrote my first program in C++ on Windows 7 OS. I fell in love with it.
 I tried a lot of things with computers, like, developing websites, desktop application applications 
-for my college projects, and learning scientific computing using Matlab. 
+for my college projects, and learning scientific computing using Matlab. [Here is the detailed list of tools and technologies I use]({{site.baseurl}}/about/tools-technologies-i-use) in my daily work.
 
 I have affinity for mathematics, physics, and computer science. I see beauty in some patterns in objects, 
 and feel aesthetic pleasure while programming and studying mathematics.
 
 I love cooking and travelling.
 
-I like instrumental and chillout music more, but hard rock goes well while working out at gym.
+I like instrumental and chillout music more, but hard rock goes well while working out.
 I'm not an expert swimmer but like to go for swimming at least once every month.
 
 I make daily goals, and measure my progress at the end of the day.
@@ -32,9 +32,9 @@ I analyse the failure points and learn the good points. This feedback loop makes
 
 I haven't read any novel from cover to cover. Lately, I have started reading this year (2016).
 
-I like to share my useful thoughts and learnings through blogging.
+I like to share my useful thoughts and learnings through blogging. [Here are few things I learnt in my life]({{site.baseurl}}/about/things-learnt).
 
-You can reach me via email at hello[at]amitthakur[dot]org.
+You can reach me via email at hello@<this site domain name>
 
 My other online presence are:
 
