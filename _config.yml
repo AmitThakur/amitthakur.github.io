@@ -5,11 +5,12 @@ permalink:           pretty
 
 # Setup
 title:              Amit Thakur 
-tagline:            'a software engineer and explorer'
+tagline:            'exploring ideas every single day'
 description:        'Random musings on STEM (Science, Technology, Engineering, and Mathematics), art, and personal adventures'
 url:                 http://amitthakur.org
 baseurl:            ''
 paginate:            5
+gems:               [jekyll-paginate]
 
 # About/contact
 author:
