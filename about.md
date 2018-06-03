@@ -5,7 +5,7 @@ title: About
 
 I'm Amit Thakur.
 
-I'm a software engineer by profession and currently working on my own project, [FeedPlayr](http://feedplayr.com).
+I'm a software engineer by profession and currently work at Thermo Fisher Scientific - Cloud applications team. In my free time, I work on  my own project, [FeedPlayr](http://feedplayr.com).
 
 Previously, I worked for Infosys for a two and half years at Bengaluru, India as a Systems Engineer.
 
@@ -22,10 +22,10 @@ for my college projects, and learning scientific computing using Matlab, OpenCV,
 I have affinity for mathematics, physics, and computer science. I see beauty in some patterns in objects, 
 and feel aesthetic pleasure while programming and studying mathematics.
 
-I love cooking and travelling.
+I love cooking, reading, listening to radio, and travelling.
 
 I like instrumental and chillout music more, but hard rock goes well while working out.
-I'm not an expert swimmer but like to go for swimming at least once every month.
+I'm not an active swimmer but like to go for swimming at least once every month.
 
 I make daily goals, and measure my progress at the end of the day.
 I analyse the failure points and learn the good points. This feedback loop makes a better person; everyday.
