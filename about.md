@@ -5,7 +5,7 @@ title: About
 
 I'm Amit Thakur.
 
-I'm a software engineer by profession and currently work at Thermo Fisher Scientific - Cloud applications team. In my free time, I work on  my own project, [FeedPlayr](http://feedplayr.com).
+I'm a software engineer by profession and currently work at Thermo Fisher Scientific - Cloud applications team, at Bengaluru, India. In my free time, I work on my own project, [FeedPlayr](http://feedplayr.com).
 
 Previously, I worked for Infosys for a two and half years at Bengaluru, India as a Systems Engineer.
 
@@ -30,7 +30,7 @@ I'm not an active swimmer but like to go for swimming at least once every month.
 I make daily goals, and measure my progress at the end of the day.
 I analyse the failure points and learn the good points. This feedback loop makes a better person; everyday.
 
-I haven't read any novel from cover to cover. Lately, I have started reading this year (2017).
+I have cultivated habit of reading for last two years.
 
 I like to share my useful thoughts and learnings through blogging. [Here are few things I learnt in my life]({{site.baseurl}}/about/things-learnt).
 
