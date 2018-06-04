@@ -10,7 +10,7 @@ description:        'Random musings on STEM (Science, Technology, Engineering, a
 url:                 http://amitthakur.org
 baseurl:            ''
 paginate:            5
-gems:               [jekyll-paginate]
+plugins:               [jekyll-paginate]
 
 # About/contact
 author:
