@@ -10,7 +10,7 @@ It was primarily a combination of [OCR](https://en.wikipedia.org/wiki/Optical_ch
 I solved the object recognition part using heuristic approach but had no clue how to solve the former.
 I read some research paper on OCR and tried implementing them using OpenCV APIs I but didn't have any clue what algorithms were used and how they were implemented.
 
-At the time, deep-neural-network usage were documented on the web, and some of the today's popular tools were not then (TensorFlow) or were just evolving (scikit-learn).
+At the time, deep-neural-network usage were documented on the web, and some of the today's popular tools were not there then (TensorFlow) or were just evolving (scikit-learn).
 
 I finished the OCR implementation using Google's Tesseract. I had EE background and knew basic programming in C++ and worked on GUI using Qt but I didn't know the better parts of linear algebra, statistics, and neural network to understand advanced ML.
 
