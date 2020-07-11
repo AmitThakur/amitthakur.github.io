@@ -12,7 +12,12 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <span class="post-meta">
+      {{ post.date | date_to_string }}
+      {% if post.comments %}
+      | <a href='{{ post.url | absolute_url }}#disqus_thread' data-disqus-identifier='{{ post.url | absolute_url }}'>Comments</a>
+      {% endif %}
+    </span>
 
     {{ post.content }}
   </div>
@@ -36,3 +41,4 @@ title: Home
   {% endif %}
 </div>
 
+<script id="dsq-count-scr" src="//amitthakur.disqus.com/count.js" async></script>
