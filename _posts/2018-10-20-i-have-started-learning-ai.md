@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I have started learning AI
+comments: true
 ---
 
 Yes, I have started learning AI, very slowly, and bit-by-bit.
