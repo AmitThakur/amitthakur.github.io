@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Hi! I'm Amit Thakur.
+Hi! I'm Amit Kumar Thakur.
 
 I'm a software engineer by profession and currently work at Vocera, Platform Team, at Bengaluru, India.
 
@@ -49,3 +49,6 @@ My other online presence are:
 * [Quora](https://www.quora.com/profile/Amit-Thakur-144)
 * [StackOverflow](http://stackoverflow.com/users/3513215/livewire)
 
+Thank you for visiting my website, and this in page in particular, to know about me!
+
+Cheers!
