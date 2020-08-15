@@ -4,7 +4,7 @@ title: CSE 2020 Prelims Challenge
 comments: true
 ---
 
-Hi! A very happy independence day to my fellow indian citizens.
+Hi! A very happy independence day to my fellow Indian citizens.
 
 Today I would like to let you know about a personal challenge that I want to pursue for next 40 days. 
 I know many would laugh at me but I just want to try it for fun and to see what is my knowledge gathering capacity in the trade which is different from my active profession.
