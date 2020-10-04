@@ -4,6 +4,26 @@ title: CSE 2020 Prelims Challenge
 comments: true
 ---
 
+**Update: Oct 04, 2020**
+
+I wrote CSE Prelims 2020 papers with absolutely zero preparation. Job work kept me busy for the last week too. So apparently I will score around 25/200 in Paper-I and 70/200 in Paper-II as per my rough memory data which I haven't verified with any official data. Nevertheless it was fun writing a competitive paper with people 5-6 years younger than me.
+
+Wish me a good luck for the next year. Cheers! :-)
+
+-----------------
+
+**Update Sep 27, 2020:**
+
+Unfortunately I couldn't find even a little time for the preparation till now because of a criticial and hectic assignment for Q3-2020
+at my day job and the prelims is on next Sunday. All I can do now is read through some quick 1 day small revision handbook. 
+Hah! Does the term 'revision' even apply to me? :-) 
+It is now better to start my preparation for the year 2021, 8 months to go for Prelims 2021. 
+I did attempt one mock test where I scored 52/200 for GS paper with some logic and luck.
+Anyway it is always fun to read new stuff.
+As I step into the actual serious preparation I would keep my performance in mock tests posted here from Feb 2021 onwards. I want to take at least 4 months to cover basic GS syllabus.
+
+---------------
+
 Hi! A very happy independence day to my fellow Indian citizens.
 
 Today I would like to let you know about a personal challenge that I want to pursue for next 40 days. 
@@ -22,14 +42,3 @@ This year I applied for the exam in February month without any serious goal - it
 I believe that pursuing big challenge helps me keep pushing my abilities furher and make me wiser. So here is my plan for this challenge - I would be posting my prelims test series performance every week from now. This journaling would also help me to focus and actively pursue this goal.
 
 Cheers!
-
-
-**Update Sep 27, 2020:**
-
-Unfortunately I couldn't find even a little time for the preparation till now because of a criticial and hectic assignment for Q3-2020
-at my day job and the prelims is on next Sunday. All I can do now is read through some quick 1 day small revision handbook. 
-Hah! Does the term 'revision' even apply to me? :-) 
-It is now better to start my preparation for the year 2021, 8 months to go for Prelims 2021. 
-I did attempt one mock test where I scored 52/200 for GS paper with some logic and luck.
-Anyway it is always fun to read new stuff.
-As I step into the actual serious preparation I would keep my performance in mock tests posted here from Feb 2021 onwards. I want to take at least 4 months to cover basic GS syllabus.
