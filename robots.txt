@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /assets/papers/
+Sitemap: https://amitthakur.org/sitemap.xml

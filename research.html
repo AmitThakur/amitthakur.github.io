@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Research — Amit Thakur</title>
+  <meta name="description" content="Research by Amit Thakur in multi-agent reinforcement learning, multi-agent systems, multimodal AI, open-vocabulary detection, robotics, and intelligent irrigation.">
+  <link rel="canonical" href="https://amitthakur.org/research.html">
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="container nav-wrap">
+    <a class="brand" href="index.html">Amit Thakur<span>.</span></a>
+    <nav class="nav-links" aria-label="Main navigation">
+      <a href="index.html">Home</a>
+      <a class="active" href="research.html">Research</a>
+      <a href="publications.html">Publications</a>
+      <a href="outdoors.html">Outdoors</a>
+    </nav>
+    <div class="nav-actions">
+      <button class="icon-btn" data-theme-toggle aria-label="Toggle theme">◐</button>
+      <button class="menu-btn" data-menu-toggle aria-label="Toggle navigation" aria-expanded="false">☰</button>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+  <section class="page-hero">
+    <div class="container">
+      <h1>Research</h1>
+      <p>
+        My current research is centered on Multi-Agent Reinforcement Learning, Multi-Agent Systems, and Multimodal AI.
+        I am interested in how learning and decision systems behave when teams change, environments shift, language
+        changes, or AI systems must interact with physical processes.
+      </p>
+    </div>
+  </section>
+
+  <section class="section-tight">
+    <div class="container research-topics">
+      <span>Multi-Agent Reinforcement Learning</span>
+      <span>Multi-Agent Systems</span>
+      <span>Multimodal AI</span>
+      <span>Open-Vocabulary Detection</span>
+      <span>Robot Learning</span>
+      <span>Decision-Making Under Shift</span>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container research-sections">
+      <article id="multi-agent">
+        <div class="kicker">Multi-agent learning</div>
+        <h2>Coordination, credit assignment, and robustness</h2>
+        <p>
+          I study cooperative multi-agent learning, with an emphasis on how agents coordinate, how credit should be
+          assigned when team composition changes, and whether apparently permutation-robust policies can still collapse
+          to undesirable behaviors.
+        </p>
+        <ul class="work-list">
+          <li>
+            <strong>Turnover-Orthogonal Credit Assignment for Open-Team Multi-Agent Reinforcement Learning.</strong>
+            Preprint, 2026.
+            <button class="pdf-view-button" type="button" data-paper-pdf="toca">View PDF ↗</button>
+          </li>
+          <li>
+            <strong>Permutation Robustness Is Not Enough: Action Collapse in Multi-Agent Transformer Policies.</strong>
+            Preprint, 2026.
+            <button class="pdf-view-button" type="button" data-paper-pdf="action-collapse">View PDF ↗</button>
+          </li>
+        </ul>
+      </article>
+
+      <article id="adaptation">
+        <div class="kicker">Adaptation</div>
+        <h2>Decision-directed identification under environment shift</h2>
+        <p>
+          Another line of my work asks what an agent actually needs to identify when the environment changes. The goal
+          is to focus adaptation on information that matters for downstream decisions rather than treating every change
+          in the environment as equally important.
+        </p>
+        <ul class="work-list">
+          <li>
+            <strong>What Must Be Learned to Adapt? Decision-Directed Identification Under Environment Shift.</strong>
+            Under review, ICLR 2027.
+            <button class="pdf-view-button" type="button" data-paper-pdf="decision-shift">View PDF ↗</button>
+          </li>
+        </ul>
+      </article>
+
+      <article id="multimodal">
+        <div class="kicker">Multimodal AI &amp; vision</div>
+        <h2>Lexical sensitivity in open-vocabulary detection</h2>
+        <p>
+          I am interested in how multimodal models respond to changes in language. In open-vocabulary object detection,
+          this includes measuring how lexical choices in prompts affect model behavior and the reliability of reported
+          detection performance.
+        </p>
+        <ul class="work-list">
+          <li>
+            <strong>LexiDet-OVD: Benchmarking Lexical Sensitivity in Open-Vocabulary Object Detection.</strong>
+            Under review, WACV 2027.
+            <button class="pdf-view-button" type="button" data-paper-pdf="lexidet-ovd">View PDF ↗</button>
+          </li>
+        </ul>
+      </article>
+
+      <article id="orchsmart">
+        <div class="kicker">Robotics &amp; intelligent systems</div>
+        <h2>AI-assisted irrigation and field deployment</h2>
+        <p>
+          During my M.S. and Graduate Student Researcher work in the UC Merced Robotics Lab, I contributed to OrchSmart,
+          an intelligent irrigation-control system designed to reduce freshwater consumption in almond orchards. This
+          work also formed the basis of my M.S. thesis and is associated with a pending UC patent case.
+        </p>
+        <ul class="work-list">
+          <li>
+            <strong>OrchSmart: Intelligent Control and Long-Term In-Field Test of Smart Irrigation in Orchards.</strong>
+            Conditionally accepted, SenSys 2027.
+            <button class="pdf-view-button" type="button" data-paper-pdf="orchsmart">View PDF ↗</button>
+          </li>
+          <li>
+            <strong>Design and Implementation of an Automated System for AI-Agent based Optimized Irrigation in Almond Farms.</strong>
+            M.S. thesis, 2025.
+            <button class="pdf-view-button" type="button" data-paper-pdf="ms-thesis">View PDF ↗</button>
+          </li>
+          <li><strong>Patent pending:</strong> Systems and methods for Intelligent Irrigation Control, U.C. Case No. 2026-603 (2420-108 PRO).</li>
+        </ul>
+      </article>
+
+      <article id="engineering">
+        <div class="kicker">Engineering background</div>
+        <h2>Systems perspective</h2>
+        <p>
+          Before graduate school, I spent nine years building production software systems in healthcare and life
+          sciences. That background continues to shape how I approach research: I value methods that are measurable,
+          implementable, and connected to the behavior of real systems.
+        </p>
+      </article>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container band">
+      <h2>Research outputs</h2>
+      <p>See the complete list of manuscripts, conference submissions, preprints, and thesis work.</p>
+      <a class="btn" href="publications.html">Browse publications →</a>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="container footer-wrap">
+    <small>© <span data-year></span> Amit Thakur.</small>
+    <div class="footer-links">
+      <a href="publications.html">Publications</a>
+      <a href="outdoors.html">Outdoors</a>
+      <a href="https://github.com/AmitThakur" target="_blank" rel="noopener">GitHub</a>
+    </div>
+  </div>
+</footer>
+<script src="assets/js/site.js"></script>
+<script src="assets/js/paper-links.js"></script>
+</body>
+</html>
