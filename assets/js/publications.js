@@ -34,20 +34,22 @@ const publications = [
     type: 'Preprint',
     title: 'Turnover-Orthogonal Credit Assignment for Open-Team Multi-Agent Reinforcement Learning',
     authors: 'Amit Thakur and Mukesh Singhal',
-    venue: 'Preprint',
+    venue: 'arXiv',
     status: '2026',
     summary: 'Credit assignment for open-team multi-agent reinforcement learning under team turnover.',
-    paperId: 'toca'
+    paperId: 'toca',
+    linkLabel: 'arXiv ↗'
   },
   {
     year: 2026,
     type: 'Preprint',
     title: 'Permutation Robustness Is Not Enough: Action Collapse in Multi-Agent Transformer Policies',
     authors: 'Amit Thakur and Mukesh Singhal',
-    venue: 'Preprint',
+    venue: 'arXiv',
     status: '2026',
     summary: 'An investigation of action collapse despite permutation robustness in multi-agent transformer policies.',
-    paperId: 'action-collapse'
+    paperId: 'action-collapse',
+    linkLabel: 'arXiv ↗'
   },
   {
     year: 2025,
@@ -95,7 +97,7 @@ function renderPublications() {
           <p class="pub-authors">${formatAuthors(p.authors)}</p>
           <p class="pub-venue">${escapeHtml(p.venue)}${p.status ? `<span class="pub-status">${escapeHtml(p.status)}</span>` : ''}</p>
           ${p.summary ? `<p class="pub-summary">${escapeHtml(p.summary)}</p>` : ''}
-          ${p.paperId ? `<div class="pub-links"><button class="pdf-view-button" type="button" data-paper-pdf="${escapeHtml(p.paperId)}">View PDF ↗</button></div>` : ''}
+          ${p.paperId ? `<div class="pub-links"><button class="pdf-view-button" type="button" data-paper-pdf="${escapeHtml(p.paperId)}">${escapeHtml(p.linkLabel || 'View PDF ↗')}</button></div>` : ''}
         </div>
       </article>
     `).join('');
