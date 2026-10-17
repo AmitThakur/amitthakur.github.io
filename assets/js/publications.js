@@ -19,16 +19,6 @@ const publications = [
     summary: 'A benchmark for lexical sensitivity in open-vocabulary object detection.',
     paperId: 'lexidet-ovd'
   },
-//  {
-//    year: 2027,
-//    type: 'Conference',
-//    title: 'OrchSmart: Intelligent Control and Long-Term In-Field Test of Smart Irrigation in Orchards',
-//    authors: 'Fan Zhao, Amit Thakur, Zhiyu An, Brady E Holder, Keith C Byrum, Khaled M Bali, Stefano Carpin, and Wan Du',
-//    venue: 'SenSys 2027',
-//    status: 'Conditionally accepted',
-//    summary: 'Intelligent irrigation control and long-term in-field evaluation in orchards.',
-//    paperId: 'orchsmart'
-//  },
   {
     year: 2026,
     type: 'Preprint',

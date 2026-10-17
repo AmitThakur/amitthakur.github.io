@@ -10,10 +10,6 @@ const paperTargets = Object.freeze({
     encoded: 'aHR0cHM6Ly91Y21lcmNlZC5ib3guY29tL3MvY3VndjMxbDRvcmliaXBwN2xpZWN5bTgzZjAybTQzbXA='
   },
 
-  'orchsmart': {
-    encoded: 'aHR0cHM6Ly91Y21lcmNlZC5ib3guY29tL3Mvd2VoZ3o5cGhpczZtdXh2b256eWt6eWJtY2s2ejFtZzE='
-  },
-
   'toca': {
     url: 'https://arxiv.org/abs/2610.02847',
     label: 'arXiv ↗'
